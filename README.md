@@ -1,6 +1,6 @@
-# Gradient-Control-Gaussian-Splatting-With-Various-Image-Degradation
+# Code and 2D pretrained models
 
-This repository contains the code and pretrained models for the paper **Gradient-Controlled Gaussian Splatting with Various Image Degradation**. 
+This repository contains the code and 2D pretrained models. 
 
 ## Table of Contents
 
@@ -15,8 +15,7 @@ This repository contains the code and pretrained models for the paper **Gradient
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/plbbl/Gradient-Control-Gaussian-Splatting-With-Various-Image-Degradation.git
-    cd Gradient-Control-Gaussian-Splatting-With-Various-Image-Degradation
+    git clone https://github.com/plbbl/code.git
     ```
    
 
